@@ -5,6 +5,6 @@
 -->
 
 
-- 🔭 I’m currently working on a JavaFX project for represnting relations and finding closures using a matrices
+- 🔭 I’m currently working on a JavaFX project for represnting relations and finding closures using matrices
 - 💬 Ask me about FRC Java programming, something I've spent a lot of time looking at
 - 😄 Pronouns: He / Him / His
