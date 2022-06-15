@@ -5,5 +5,5 @@
 -->
 
 
-- 🔭 I’m currently working on a Tauri/Svelte app designed to streamline playing music during RPG sessions\
+- 🔭 I’m currently working on a Tauri/Svelte app designed to streamline playing music during RPG sessions
 - 😄 Pronouns: He / Him / His
