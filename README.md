@@ -5,6 +5,5 @@
 -->
 
 
-<!-- - 🔭 I’m currently working on a JavaFX project for representing relations and finding closures using matrices -->
-- 💬 Ask me about FRC Java programming, something I've spent a lot of time looking at
+- 🔭 I’m currently working on a Tauri/Svelte app designed to streamline playing music during RPG sessions\
 - 😄 Pronouns: He / Him / His
